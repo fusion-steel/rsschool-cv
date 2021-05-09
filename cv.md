@@ -3,6 +3,9 @@
 * Phone: +380974997748
 * E-mail: pavelgently@gmail.com
 * FB: https://www.facebook.com/pavelgently/
+# Summary
+My main goals at this course: to improve knowledge of Kotlin and learn some more about Android development.
+Also I want to get a chance to become a professional programmer.
 # Skills:
 * Kotlin, Python, C#(Basic)
 * IntelliJ IDEA, Android Studio, PyCharm
