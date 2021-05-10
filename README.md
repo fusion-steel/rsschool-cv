@@ -1,1 +1,1 @@
-https://fusion-steel.github.io/rsschool-cv/cv
+https://github.com/fusion-steel/rsschool-cv/gh-pages/cv.md
